@@ -1,0 +1,8 @@
+---
+allowLocalFiles: true
+theme: ../style/think.css
+inputDir: ./
+html: true
+lang: de-DE
+title: ThinkPads - Eingabegeräte
+url: https://thinkpad-museum.de
